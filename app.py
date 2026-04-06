@@ -6,7 +6,7 @@ from bson import ObjectId
 
 app = Flask(__name__)
 
-# ── CHANGE THIS to your MongoDB Atlas connection string ──────────────────────
+
 MONGO_URI = "mongodb+srv://imartinezdelariva_db_user:fBeeXmzTR7sEPGsX@cluster0.npmwf29.mongodb.net/?appName=Cluster0"
 # ─────────────────────────────────────────────────────────────────────────────
 
